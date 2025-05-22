@@ -1,4 +1,8 @@
-## Hi there 👋
+## This repository contains my solutions to Codewars problems organized by difficulty level (kyu)
+
+## structure
+- `8kyu/` – Easiest problems
+- `7kyu/` – Beginner level
 
 <!--
 **Gustaveizabayo/gustaveizabayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
